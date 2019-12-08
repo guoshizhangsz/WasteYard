@@ -2,6 +2,6 @@
 
 2---选中文件，点击右键->tortoiseGit->add，然后OK。
 
-3---选中文件，点击右键->Git Commit->master,然后编写message，点击Commit
+3---选中文件，点击右键->Git Commit->master,然后编写message，点击Commit，然后close。
 
 4---
